@@ -1,3 +1,4 @@
 print ("Hello World");
 print ("Hello Marina");
 print ("Hello Sasha");
+Марина, я тут. Спасите.
