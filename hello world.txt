@@ -3,3 +3,5 @@ print ("Hello Marina");
 print ("Hello Sasha");
 Марина, я тут. Спасите.
 Я здесь
+привет, я в 1040
+тут я 
