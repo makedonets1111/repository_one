@@ -2,6 +2,8 @@ print ("Hello World");
 print ("Hello Marina");
 print ("Hello Sasha");
 Марина, я тут. Спасите.
+<<<<<<< Updated upstream
 Я здесь
 привет, я в 1040
 тут я 
+моя новая строка
